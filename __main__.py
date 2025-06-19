@@ -1,7 +1,7 @@
 ######################################################
 ###                TRABALHO FINAL IA               ###
 ###                NATANAEL FERREIRA               ###
-###                               ###
+###       ML-kaggle-AZ-Handwritte-onlyCapital      ###
 ######################################################
 
 
@@ -75,7 +75,7 @@ history = model.fit(
 )
 
 # Salva o modelo treinado
-model.save("modelo_letras.keras")  # Formato moderno
+model.save("modelo_letras.keras")
 
 
 # Ajuda para visualizar o desempenho do modelo
